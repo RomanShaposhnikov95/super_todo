@@ -1,0 +1,29 @@
+.inputBlock {
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    -webkit-box-shadow: inset -1px 3px 8px 5px #ffffff, 2px 5px 16px 0px #ffffff, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: inset -1px 3px 8px 5px #ffffff, 2px 5px 16px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+body#tinymce {
+    background: #FFFFFF
+}
+
+.inputText {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    outline: none;
+    border: 2px solid black;
+}
+
+.inputBtn {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: dodgerblue;
+    border: 2px solid black;
+}

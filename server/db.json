@@ -1,0 +1,17 @@
+{
+  "todos": [],
+  "filtersByColor": [
+    {
+      "color": "red"
+    },
+    {
+      "color": "green"
+    },
+    {
+      "color": "yellow"
+    },
+    {
+      "color": "purple"
+    }
+  ]
+}
